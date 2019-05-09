@@ -1,0 +1,13 @@
+{
+  "name": "octa-byte/dropome-dashboard",
+  "description": "A beautiful Dashboard for Bootstrap 4. It is Free and Open Source.",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "OctaByte",
+      "email": "dev@octabyte.io"
+    }
+  ],
+  "require": {}
+}

@@ -1,0 +1,4 @@
+# Ignore editors
+.vscode
+
+.DS_Store
